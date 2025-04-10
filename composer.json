@@ -1,5 +1,5 @@
 {
-    "name": "tommek83/html2text",
+    "name": "html2text/html2text",
     "description": "Fork from html2text/html2text. Converts HTML to formatted plain text",
     "type": "library",
     "license": "GPL-2.0-or-later",
